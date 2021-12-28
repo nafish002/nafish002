@@ -1,7 +1,7 @@
 
 ![I am WebDeveloper](https://cdn.pixabay.com/photo/2018/09/27/09/21/web-3706561__340.jpg)
-## Hi 👋, My name is Nafish
-#### I am WebDeveloper
+## Hi, I'm E. Nafish 👋
+### I am WebDeveloper
 
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
